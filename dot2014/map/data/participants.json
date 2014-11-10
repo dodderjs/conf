@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Hubudibu",
+    "fullName": "Aniko Fejes",
+    "twitter": "hubudibu",
+    "location": {
+      "name": "Apartment 31",
+      "address": "9 Rue Chappe",
+      "latitude": 48.8845422,
+      "longitude": 2.3416971
+    }
+  },
+  {
+    "name": "gex",
+    "fullName": "Gergo Szonyi",
+    "twitter": "szexigexi",
+    "location": {
+      "name": "Hotel Kyriad",
+      "address": "30 Rue Lucien Sampaix",
+      "latitude": 48.8727719,
+      "longitude": 2.3615885
+    }
+  },
+  {
+    "name": "johnny",
+    "fullName": "Janos Zab",
+    "location": {
+      "name": "Hotel Merryl",
+      "address": "7-9 Rue Pajol",
+      "latitude": 48.8854271,
+      "longitude": 2.3604891
+    }
+  }
+]

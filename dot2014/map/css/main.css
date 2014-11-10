@@ -1,0 +1,44 @@
+html {
+
+}
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* map */
+.map {
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+/* participant */
+.participant {
+  overflow: hidden;
+  white-space: nowrap;
+}
+.participant h1 {
+  font-size: 120%;
+  margin: .5em 0;
+}
+.participant p {
+  margin: .5em 0;
+}
+.participant .full-name {
+  color: #999;
+  font-weight: normal;
+}
+.participant .twitter a {
+  color: #55acee;
+  text-decoration: none;
+}
+.participant .twitter a:hover {
+  text-decoration underline;
+}
+.participant .location-name {
+  font-weight: bold;
+}
