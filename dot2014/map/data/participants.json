@@ -30,5 +30,25 @@
       "latitude": 48.8854271,
       "longitude": 2.3604891
     }
+  },
+  {
+    "name": "DotCSS",
+    "twitter": "dotcss",
+    "location": {
+      "name": "Théâtre des Variétés",
+      "address": "7 Boulevard Montmartre",
+      "latitude": 48.871663,
+      "longitude": 2.3420947
+    }
+  },
+  {
+    "name": "DotJS",
+    "twitter": "dotjs",
+    "location": {
+      "name": "Théâtre de Paris",
+      "address": "15 Rue Blanche",
+      "latitude": 48.8785733,
+      "longitude": 2.3316175
+    }
   }
 ]
