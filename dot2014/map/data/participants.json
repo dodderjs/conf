@@ -42,6 +42,16 @@
     }
   },
   {
+    "name": "Tamas Puski",
+    "twitter": "tpuski",
+    "location": {
+      "name": "Comfort Hotel",
+      "address": "16 Rue Tholozé",
+      "latitude": 48.8864453,
+      "longitude": 2.3355704
+    }
+  },
+  {
     "name": "DotCSS",
     "twitter": "dotcss",
     "location": {
