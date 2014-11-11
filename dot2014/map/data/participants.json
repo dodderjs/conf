@@ -1,5 +1,15 @@
 [
   {
+    "name": “Daniel”,
+    "fullName": “Daniel Szekely“,
+    "location": {
+      "name": "Comfort Hotel Davout Nation",
+      "address": "110 Rue des Orteaux",
+      "latitude": 48.855495,
+      "longitude": 2.409855
+    }
+  },
+  {
     "name": "Hubudibu",
     "fullName": "Aniko Fejes",
     "twitter": "hubudibu",
