@@ -45,7 +45,7 @@
       options = {
         map: map,
         position: new maps.LatLng(participant.location.latitude, participant.location.longitude),
-        name: participant.name,
+        nickName: participant.nickName,
         fullName: participant.fullName,
         twitter: participant.twitter,
         location: {
@@ -59,8 +59,7 @@
         var content = '' +
           '<section class="participant">' +
             '<h1 class="name">' +
-              this.name + 
-              (this.fullName ? ' <span class="full-name">(' + this.fullName + ')</span>' : '') +
+              (this.nickName ? this.nickName + ' <span class="full-name">(' + this.fullName + ')</span>' : this.fullName) +
             '</h1>' +
             (this.twitter ? '<p class="twitter"><a href="https://twitter.com/' + this.twitter + '">@' + this.twitter + '</a></p>' : '') +
             '<p class="location">' +
