@@ -1,16 +1,14 @@
 [
   {
-    "name": "Daniel",
     "fullName": "Daniel Szekely",
     "location": {
-      "name": "Comfort Hotel Davout Nation",
+      "name": "Comfort Hotel",
       "address": "110 Rue des Orteaux",
       "latitude": 48.855495,
       "longitude": 2.409855
     }
-  },
-  {
-    "name": "Hubudibu",
+  }, {
+    "nickName": "hubudibu",
     "fullName": "Aniko Fejes",
     "twitter": "hubudibu",
     "location": {
@@ -19,9 +17,8 @@
       "latitude": 48.8845422,
       "longitude": 2.3416971
     }
-  },
-  {
-    "name": "gex",
+  }, {
+    "nickName": "gex",
     "fullName": "Gergo Szonyi",
     "twitter": "szexigexi",
     "location": {
@@ -30,9 +27,8 @@
       "latitude": 48.8727719,
       "longitude": 2.3615885
     }
-  },
-  {
-    "name": "johnny",
+  }, {
+    "nickName": "johnny",
     "fullName": "Janos Zab",
     "location": {
       "name": "Hotel Merryl",
@@ -40,9 +36,17 @@
       "latitude": 48.8854271,
       "longitude": 2.3604891
     }
-  },
-  {
-    "name": "DotCSS",
+  }, {
+    "fullName": "Tamas Puski",
+    "twitter": "tpuski",
+    "location": {
+      "name": "Comfort Hotel",
+      "address": "16 Rue Tholozé",
+      "latitude": 48.8864453,
+      "longitude": 2.3355704
+    }
+  }, {
+    "fullName": "DotCSS",
     "twitter": "dotcss",
     "location": {
       "name": "Théâtre des Variétés",
@@ -50,9 +54,8 @@
       "latitude": 48.871663,
       "longitude": 2.3420947
     }
-  },
-  {
-    "name": "DotJS",
+  }, {
+    "fullName": "DotJS",
     "twitter": "dotjs",
     "location": {
       "name": "Théâtre de Paris",
