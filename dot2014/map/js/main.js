@@ -59,7 +59,8 @@
         var content = '' +
           '<section class="participant">' +
             '<h1 class="name">' +
-              this.name + ' <span class="full-name">(' + this.fullName + ')</span>' +
+              this.name + 
+              (this.fullName ? ' <span class="full-name">(' + this.fullName + ')</span>' : '') +
             '</h1>' +
             (this.twitter ? '<p class="twitter"><a href="https://twitter.com/' + this.twitter + '">@' + this.twitter + '</a></p>' : '') +
             '<p class="location">' +
