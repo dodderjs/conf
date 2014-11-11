@@ -60,5 +60,15 @@
       "latitude": 48.8785733,
       "longitude": 2.3316175
     }
+  },
+  {
+    "name": "mitoHQ",
+    "fullName": "a mitosok",
+    "location": {
+      "name": "Art & Romance, balcony, nice view!",
+      "address": "4 Rue de Sambre-et-Meuse",
+      "latitude": 48.8753513,
+      "longitude": 2.3698009
+    }
   }
 ]
