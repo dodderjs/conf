@@ -72,6 +72,15 @@
       "address": "4 Rue de Sambre-et-Meuse",
       "latitude": 48.8753513,
       "longitude": 2.3698009
+    },
+  {
+    "name": "Dodi",
+    "fullName": "Gál József",
+    "location": {
+      "name": "Hôtel Pax Opéra",
+      "address": "47 rue de Trévise",
+      "latitude": 48.874038,
+      "longitude": 2.345333
     }
   }
 ]
